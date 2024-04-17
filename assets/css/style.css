@@ -79,7 +79,8 @@ nav .container ul li a{
 
                 /* HEADER LATAR BELAKANG GAMBAR */
                 .header .img-header{
-                    background-image: url("https://c.wallhere.com/photos/72/e1/anime_girls_schoolgirl_library_original_characters_Kaori_Minato-2019265.jpg!d");
+                    background-image: url("assets/img/header/perpustakaan.jpg");
+                    background-image: url("assets/img/header/perpustakaan.jpg");
                     
                     background-repeat: no-repeat;
                     background-size: cover; /* Menggunakan cover agar gambar latar belakang terisi seluruh area */
